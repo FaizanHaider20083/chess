@@ -1,0 +1,28 @@
+# Chess Training App Dependencies
+
+# Core chess library for game logic, positions, and moves
+python-chess==1.999
+
+# GUI Framework options
+pygame==2.5.2  # For game graphics and interactive elements
+
+# Web framework for potential web interface
+flask==3.0.0
+flask-cors==4.0.0
+
+# Data handling and analysis
+pandas==2.1.4
+numpy==1.24.4
+
+# Chess engine integration
+stockfish==3.28.0  # Python wrapper for Stockfish engine
+
+# Database support
+
+# Additional utilities
+requests==2.31.0  # For downloading chess databases/games
+python-dotenv==1.0.0  # For environment variables
+
+# Development and testing
+pytest==7.4.3
+pytest-cov==4.1.0 
