@@ -5,3 +5,6 @@
 
 ## 2025-09-25
 - Board responsive breakpoints
+
+## 2025-09-27
+- Sound volume defaults
