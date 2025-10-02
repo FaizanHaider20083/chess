@@ -11,3 +11,6 @@
 
 ## 2025-09-30
 - Prevent double-move on rapid click
+
+## 2025-10-02
+- Stockfish depth option
