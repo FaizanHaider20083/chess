@@ -14,3 +14,6 @@
 
 ## 2025-10-02
 - Stockfish depth option
+
+## 2025-10-04
+- Game over overlay styling
