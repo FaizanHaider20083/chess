@@ -17,3 +17,6 @@
 
 ## 2025-10-04
 - Game over overlay styling
+
+## 2025-10-07
+- Move list scroll
