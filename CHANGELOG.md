@@ -20,3 +20,6 @@
 
 ## 2025-10-07
 - Move list scroll
+
+## 2025-10-09
+- Keyboard shortcuts
