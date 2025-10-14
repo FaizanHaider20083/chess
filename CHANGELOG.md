@@ -26,3 +26,6 @@
 
 ## 2025-10-11
 - Highlight last move
+
+## 2025-10-14
+- Capture animation
