@@ -29,3 +29,6 @@
 
 ## 2025-10-14
 - Capture animation
+
+## 2025-10-16
+- Clock low-time warning
