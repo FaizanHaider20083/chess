@@ -32,3 +32,6 @@
 
 ## 2025-10-16
 - Clock low-time warning
+
+## 2025-10-18
+- Undo/redo polish
