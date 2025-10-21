@@ -35,3 +35,6 @@
 
 ## 2025-10-18
 - Undo/redo polish
+
+## 2025-10-21
+- Computer difficulty levels
