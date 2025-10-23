@@ -38,3 +38,6 @@
 
 ## 2025-10-21
 - Computer difficulty levels
+
+## 2025-10-23
+- Pawn promotion UI
