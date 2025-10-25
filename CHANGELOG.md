@@ -41,3 +41,6 @@
 
 ## 2025-10-23
 - Pawn promotion UI
+
+## 2025-10-25
+- Mobile touch targets
