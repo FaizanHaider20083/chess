@@ -44,3 +44,6 @@
 
 ## 2025-10-25
 - Mobile touch targets
+
+## 2025-10-28
+- Theme consistency
