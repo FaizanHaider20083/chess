@@ -47,3 +47,6 @@
 
 ## 2025-10-28
 - Theme consistency
+
+## 2025-10-30
+- Reset game confirmation
