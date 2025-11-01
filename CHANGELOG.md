@@ -50,3 +50,6 @@
 
 ## 2025-10-30
 - Reset game confirmation
+
+## 2025-11-01
+- Move validation feedback
