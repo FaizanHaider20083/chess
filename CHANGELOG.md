@@ -53,3 +53,6 @@
 
 ## 2025-11-01
 - Move validation feedback
+
+## 2025-11-04
+- Accessibility labels
