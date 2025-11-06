@@ -56,3 +56,6 @@
 
 ## 2025-11-04
 - Accessibility labels
+
+## 2025-11-06
+- Clock pause on modal
