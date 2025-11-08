@@ -59,3 +59,6 @@
 
 ## 2025-11-06
 - Clock pause on modal
+
+## 2025-11-08
+- Check sound
