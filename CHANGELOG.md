@@ -65,3 +65,6 @@
 
 ## 2025-11-11
 - Stalemate message
+
+## 2025-11-13
+- Preload sounds
