@@ -68,3 +68,6 @@
 
 ## 2025-11-13
 - Preload sounds
+
+## 2025-11-15
+- Board flip for black
