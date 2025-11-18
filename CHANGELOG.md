@@ -71,3 +71,6 @@
 
 ## 2025-11-15
 - Board flip for black
+
+## 2025-11-18
+- Final UI polish
