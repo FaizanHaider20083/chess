@@ -74,3 +74,6 @@
 
 ## 2025-11-18
 - Final UI polish
+
+## 2025-11-20
+- README and usage
