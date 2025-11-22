@@ -77,3 +77,6 @@
 
 ## 2025-11-20
 - README and usage
+
+## 2025-11-22
+- v1.0 preparation
