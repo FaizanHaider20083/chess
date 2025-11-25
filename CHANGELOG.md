@@ -80,3 +80,6 @@
 
 ## 2025-11-22
 - v1.0 preparation
+
+## 2025-11-25
+- Bug fixes and stability
