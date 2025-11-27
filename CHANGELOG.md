@@ -83,3 +83,6 @@
 
 ## 2025-11-25
 - Bug fixes and stability
+
+## 2025-11-27
+- Release 1.0
